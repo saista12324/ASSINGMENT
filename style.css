@@ -1,0 +1,117 @@
+.Header14{
+    width: 1500px; height: 890px; position: relative; background: #2F1893;
+}
+
+.SignUpForm{
+    width: 470px; height: 600px; left: 715px; top: 180px; position: absolute;
+}
+
+.Placeholder{
+    width: 470px; height: 600px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px
+}
+
+.SignIn{
+    left: 325px; top: 529px; position: absolute; color: #25DAC5; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 28px; word-wrap: break-word;
+}
+.DoYouHaveAnAccout{
+    left: 100px; top: 529px; position: absolute; text-align: center; color: rgba(21.06, 20.34, 56.79, 0.40); font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 28px; word-wrap: break-word;
+}
+
+.MiddleFill{
+    width: 330px; height: 50px; left: 70px; top: 449px; position: absolute
+}
+.Rectangle{
+
+    width: 330px; height: 50px; left: 0px; top: 0px; position: absolute; background: #1DA1F2; border-radius: 100px;
+}
+.SignUp1{
+    left: 96px; top: 12px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word;
+}
+.MiddleFills{
+    width: 330px; height: 50px; left: 70px; top: 338px; position: absolute;
+}
+.Rectangles{
+    width: 330px; height: 50px; left: 0px; top: 0px; position: absolute; background: #482BE7; border-radius: 100px;
+}
+.SignUp2{
+    left: 137px; top: 12px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word;
+}
+.DividerOr{
+    width: 328px; height: 26px; left: 69.50px; top: 406.40px; position: absolute;
+}
+.Divider{
+    width: 141.57px; height: 2px; left: 186.43px; top: 11.10px; position: absolute; border: 2px #EBEAED solid;
+}
+.Or{
+    left: 154.50px; top: 0px; position: absolute; opacity: 0.90; text-align: center; color: rgba(21.06, 20.34, 56.79, 0.40); font-size: 16px; font-family: DM Sans; font-weight: 400; line-height: 26px; word-wrap: break-word
+}
+
+.CheckboxChecked{
+    width: 265px; height: 26.40px; left: 70px; top: 284px; position: absolute;
+}
+
+.Checked{
+    left: 37px; top: 0.40px; position: absolute; color: rgba(21.06, 20.34, 56.79, 0.40); font-size: 16px; font-family: DM Sans; font-weight: 400; line-height: 26px; word-wrap: break-word
+
+}
+.On{
+    width: 24px; height: 24px; left: 0px; top: 0px; position: absolute;
+}
+.Rectangle3{
+    width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: #25DAC5; border-radius: 6px
+}
+.CheckIcon{
+    width: 9.60px; height: 6px; left: 16.80px; top: 9.60px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border: 2px #1E0E62 solid;
+}
+.MiddleDarkOutline1{
+    width: 330px; height: 50px; left: 70px; top: 204px; position: absolute
+
+}
+.Rectangle4{
+    width: 330px; height: 50px; left: 0px; top: 0px; position: absolute; border-radius: 100px; border: 2px #EBEAED solid;
+}
+.MiddleDarkOutline2{
+    width: 330px; height: 50px; left: 70px; top: 134px; position: absolute;
+}
+.YourEmail{
+    left: 24px; top: 12px; position: absolute; color: rgba(21.06, 20.34, 56.79, 0.40); font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word;
+}
+.SignUp3{
+    left: 114px; top: 48px; position: absolute; text-align: center; color: #1E0E62; font-size: 42px; font-family: DM Sans; font-weight: 700; line-height: 52px; word-wrap: break-word;
+}
+.Text{
+    width: 427px; height: 496px; left: 209px; top: 219px; position: absolute
+}
+.TheMostImportantP{
+    width: 363px; left: 3px; top: 241px; position: absolute; color: white; font-size: 22px; font-family: DM Sans; font-weight: 500; line-height: 32px; word-wrap: break-word;
+}
+.MiddleFill2{ 
+    width: 157px; height: 50px; left: 0px; top: 446px; position: absolute
+}
+.Rectangle6 {width: 157px; height: 50px; left: 0px; top: 0px; position: absolute; background: #E93A7D; border-radius: 100px
+}
+
+.SignUp4 {left: 31px; top: 12px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word}
+
+.TwentyFiveAwesome {width: 424px; height: 217px; left: 3px; top: 0px; position: absolute; color: white; font-size: 58px; font-family: DM Sans; font-weight: 700; line-height: 70px; word-wrap: break-word}
+
+.HeaderMenu {width: 972px; height: 40px; left: 213px; top: 65px; position: absolute}
+
+.Menu {width: 503px; height: 40px; left: 469px; top: 0px; position: absolute}
+.MiddleFill3 {width: 120px; height: 40px; left: 383px; top: 0px; position: absolute}
+.Rectangle7 {width: 120px; height: 40px; left: 0px; top: 0px; position: absolute; background: #E93A7D; border-radius: 100px}
+
+
+.SignUp5{left: 21px; top: 7px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word}
+           
+.Feedback{left: 265px; top: 7.40px; position: absolute; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word;}
+.Blog{left: 196px; top: 7.40px; position: absolute; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word}
+ .Prices {left: 113px; top: 7.40px; position: absolute; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-word}
+ .About{left: 0px; top: 7.40px; position: absolute; opacity: 0.30; color: white; font-size: 18px; font-family: DM Sans; font-weight: 500; line-height: 26px; word-wrap: break-wor}
+          
+ .White {width: 111px; height: 19px; left: 0px; top: 9px; position: absolute}
+ .White2{width: 111px; height: 19px; left: 0px; top: 0px; position: absolute}
+ .Startup3 {left: 2px; top: -6px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: DM Sans; font-weight: 700; word-wrap: break-word;}
+           
+
+
